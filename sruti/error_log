@@ -1,0 +1,188 @@
+[28-Oct-2017 10:01:19 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'sigosflb_sruti'@'localhost' (using password: YES) in /home/sigosflb/public_html/ourworks.today/sruti/config.php on line 2
+[28-Oct-2017 10:01:57 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'sigosflb_sruti'@'localhost' (using password: YES) in /home/sigosflb/public_html/ourworks.today/sruti/config.php on line 2
+[28-Oct-2017 10:01:57 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'sigosflb_sruti'@'localhost' (using password: YES) in /home/sigosflb/public_html/ourworks.today/sruti/config.php on line 2
+[28-Oct-2017 10:03:05 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'sigosflb_sruti'@'localhost' (using password: YES) in /home/sigosflb/public_html/ourworks.today/sruti/config.php on line 2
+[28-Oct-2017 10:03:14 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'sigosflb_sruti'@'localhost' (using password: YES) in /home/sigosflb/public_html/ourworks.today/sruti/config.php on line 2
+[28-Oct-2017 10:05:48 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'sigosflb_sruti'@'localhost' (using password: YES) in /home/sigosflb/public_html/ourworks.today/sruti/config.php on line 2
+[28-Oct-2017 10:09:00 Etc/GMT] PHP Notice:  Undefined index: check in /home/sigosflb/public_html/ourworks.today/sruti/addcategory.php on line 10
+[28-Oct-2017 10:09:00 Etc/GMT] PHP Warning:  implode(): Invalid arguments passed in /home/sigosflb/public_html/ourworks.today/sruti/addcategory.php on line 10
+[28-Oct-2017 10:25:45 Etc/GMT] PHP Notice:  Undefined variable: aid in /home/sigosflb/public_html/ourworks.today/sruti/addimage.php on line 40
+[28-Oct-2017 10:25:45 Etc/GMT] PHP Warning:  mysqli_query(): Empty query in /home/sigosflb/public_html/ourworks.today/sruti/addimage.php on line 41
+[28-Oct-2017 10:25:45 Etc/GMT] PHP Notice:  Undefined variable: aid in /home/sigosflb/public_html/ourworks.today/sruti/addimage.php on line 45
+[28-Oct-2017 10:25:45 Etc/GMT] PHP Warning:  mysqli_query(): Empty query in /home/sigosflb/public_html/ourworks.today/sruti/addimage.php on line 46
+[28-Oct-2017 10:25:45 Etc/GMT] PHP Notice:  Undefined variable: aid in /home/sigosflb/public_html/ourworks.today/sruti/addimage.php on line 50
+[28-Oct-2017 10:25:45 Etc/GMT] PHP Warning:  mysqli_query(): Empty query in /home/sigosflb/public_html/ourworks.today/sruti/addimage.php on line 51
+[28-Oct-2017 10:26:11 Etc/GMT] PHP Notice:  Undefined variable: aid in /home/sigosflb/public_html/ourworks.today/sruti/addimage.php on line 40
+[28-Oct-2017 10:26:11 Etc/GMT] PHP Warning:  mysqli_query(): Empty query in /home/sigosflb/public_html/ourworks.today/sruti/addimage.php on line 41
+[31-Oct-2017 05:59:24 Etc/GMT] PHP Notice:  A session had already been started - ignoring session_start() in /home/sigosflb/public_html/ourworks.today/sruti/index.php on line 2
+[31-Oct-2017 05:59:37 Etc/GMT] PHP Notice:  A session had already been started - ignoring session_start() in /home/sigosflb/public_html/ourworks.today/sruti/index.php on line 2
+[31-Oct-2017 06:05:57 Etc/GMT] PHP Notice:  A session had already been started - ignoring session_start() in /home/sigosflb/public_html/ourworks.today/sruti/index.php on line 2
+[31-Oct-2017 06:06:08 Etc/GMT] PHP Notice:  A session had already been started - ignoring session_start() in /home/sigosflb/public_html/ourworks.today/sruti/index.php on line 2
+[31-Oct-2017 06:06:38 Etc/GMT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/sigosflb/public_html/ourworks.today/sruti/sidebar.php:127) in /home/sigosflb/public_html/ourworks.today/sruti/viewabout.php on line 66
+[31-Oct-2017 06:39:35 Etc/GMT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/sigosflb/public_html/ourworks.today/sruti/sidebar.php:127) in /home/sigosflb/public_html/ourworks.today/sruti/viewsongs.php on line 71
+[31-Oct-2017 06:43:13 Etc/GMT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/sigosflb/public_html/ourworks.today/sruti/sidebar.php:127) in /home/sigosflb/public_html/ourworks.today/sruti/viewcategory.php on line 69
+[31-Oct-2017 06:48:55 Etc/GMT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/sigosflb/public_html/ourworks.today/sruti/sidebar.php:127) in /home/sigosflb/public_html/ourworks.today/sruti/viewsubcategory.php on line 70
+[31-Oct-2017 06:53:41 Etc/GMT] PHP Notice:  A session had already been started - ignoring session_start() in /home/sigosflb/public_html/ourworks.today/sruti/index.php on line 2
+[31-Oct-2017 06:53:54 Etc/GMT] PHP Notice:  A session had already been started - ignoring session_start() in /home/sigosflb/public_html/ourworks.today/sruti/index.php on line 2
+[31-Oct-2017 06:54:01 Etc/GMT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/sigosflb/public_html/ourworks.today/sruti/sidebar.php:127) in /home/sigosflb/public_html/ourworks.today/sruti/viewsubcategory.php on line 70
+[31-Oct-2017 06:54:04 Etc/GMT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/sigosflb/public_html/ourworks.today/sruti/sidebar.php:127) in /home/sigosflb/public_html/ourworks.today/sruti/viewsubdis.php on line 70
+[31-Oct-2017 06:54:09 Etc/GMT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/sigosflb/public_html/ourworks.today/sruti/sidebar.php:127) in /home/sigosflb/public_html/ourworks.today/sruti/viewdiscat.php on line 69
+[31-Oct-2017 06:54:13 Etc/GMT] PHP Notice:  A session had already been started - ignoring session_start() in /home/sigosflb/public_html/ourworks.today/sruti/index.php on line 2
+[31-Oct-2017 16:56:47 Etc/GMT] PHP Notice:  A session had already been started - ignoring session_start() in /home/sigosflb/public_html/ourworks.today/sruti/index.php on line 2
+[01-Nov-2017 01:16:54 Etc/GMT] PHP Notice:  A session had already been started - ignoring session_start() in /home/sigosflb/public_html/ourworks.today/sruti/index.php on line 2
+[02-Nov-2017 17:49:02 Etc/GMT] PHP Notice:  A session had already been started - ignoring session_start() in /home/sigosflb/public_html/ourworks.today/sruti/index.php on line 2
+[02-Nov-2017 17:49:32 Etc/GMT] PHP Notice:  A session had already been started - ignoring session_start() in /home/sigosflb/public_html/ourworks.today/sruti/index.php on line 2
+[03-Nov-2017 04:33:02 Etc/GMT] PHP Notice:  A session had already been started - ignoring session_start() in /home/sigosflb/public_html/ourworks.today/sruti/index.php on line 2
+[03-Nov-2017 04:33:12 Etc/GMT] PHP Notice:  A session had already been started - ignoring session_start() in /home/sigosflb/public_html/ourworks.today/sruti/index.php on line 2
+[03-Nov-2017 04:34:25 Etc/GMT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/sigosflb/public_html/ourworks.today/sruti/sidebar.php:127) in /home/sigosflb/public_html/ourworks.today/sruti/viewsongs.php on line 71
+[03-Nov-2017 05:50:59 Etc/GMT] PHP Notice:  A session had already been started - ignoring session_start() in /home/sigosflb/public_html/ourworks.today/sruti/index.php on line 2
+[03-Nov-2017 11:40:24 Etc/GMT] PHP Notice:  A session had already been started - ignoring session_start() in /home/sigosflb/public_html/ourworks.today/sruti/index.php on line 2
+[03-Nov-2017 11:40:40 Etc/GMT] PHP Notice:  A session had already been started - ignoring session_start() in /home/sigosflb/public_html/ourworks.today/sruti/index.php on line 2
+[03-Nov-2017 11:41:26 Etc/GMT] PHP Notice:  A session had already been started - ignoring session_start() in /home/sigosflb/public_html/ourworks.today/sruti/index.php on line 2
+[03-Nov-2017 11:41:28 Etc/GMT] PHP Notice:  A session had already been started - ignoring session_start() in /home/sigosflb/public_html/ourworks.today/sruti/index.php on line 2
+[03-Nov-2017 11:41:43 Etc/GMT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/sigosflb/public_html/ourworks.today/sruti/sidebar.php:127) in /home/sigosflb/public_html/ourworks.today/sruti/viewabout.php on line 66
+[03-Nov-2017 11:41:52 Etc/GMT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/sigosflb/public_html/ourworks.today/sruti/sidebar.php:127) in /home/sigosflb/public_html/ourworks.today/sruti/viewsongs.php on line 71
+[03-Nov-2017 11:44:03 Etc/GMT] PHP Notice:  A session had already been started - ignoring session_start() in /home/sigosflb/public_html/ourworks.today/sruti/index.php on line 2
+[04-Nov-2017 11:58:55 Etc/GMT] PHP Notice:  A session had already been started - ignoring session_start() in /home/sigosflb/public_html/ourworks.today/sruti/index.php on line 2
+[04-Nov-2017 11:59:22 Etc/GMT] PHP Notice:  A session had already been started - ignoring session_start() in /home/sigosflb/public_html/ourworks.today/sruti/index.php on line 2
+[06-Nov-2017 04:46:55 Etc/GMT] PHP Notice:  A session had already been started - ignoring session_start() in /home/sigosflb/public_html/ourworks.today/sruti/index.php on line 2
+[06-Nov-2017 05:03:42 Etc/GMT] PHP Notice:  A session had already been started - ignoring session_start() in /home/sigosflb/public_html/ourworks.today/sruti/index.php on line 2
+[06-Nov-2017 05:04:05 Etc/GMT] PHP Notice:  A session had already been started - ignoring session_start() in /home/sigosflb/public_html/ourworks.today/sruti/index.php on line 2
+[06-Nov-2017 05:04:05 Etc/GMT] PHP Notice:  A session had already been started - ignoring session_start() in /home/sigosflb/public_html/ourworks.today/sruti/index.php on line 2
+[06-Nov-2017 05:04:21 Etc/GMT] PHP Notice:  A session had already been started - ignoring session_start() in /home/sigosflb/public_html/ourworks.today/sruti/index.php on line 2
+[06-Nov-2017 05:04:22 Etc/GMT] PHP Notice:  A session had already been started - ignoring session_start() in /home/sigosflb/public_html/ourworks.today/sruti/index.php on line 2
+[06-Nov-2017 05:07:45 Etc/GMT] PHP Notice:  A session had already been started - ignoring session_start() in /home/sigosflb/public_html/ourworks.today/sruti/index.php on line 2
+[06-Nov-2017 05:07:46 Etc/GMT] PHP Notice:  A session had already been started - ignoring session_start() in /home/sigosflb/public_html/ourworks.today/sruti/index.php on line 2
+[06-Nov-2017 05:08:51 Etc/GMT] PHP Notice:  A session had already been started - ignoring session_start() in /home/sigosflb/public_html/ourworks.today/sruti/index.php on line 2
+[06-Nov-2017 05:08:52 Etc/GMT] PHP Notice:  A session had already been started - ignoring session_start() in /home/sigosflb/public_html/ourworks.today/sruti/index.php on line 2
+[06-Nov-2017 05:09:06 Etc/GMT] PHP Notice:  A session had already been started - ignoring session_start() in /home/sigosflb/public_html/ourworks.today/sruti/index.php on line 2
+[06-Nov-2017 05:10:28 Etc/GMT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/sigosflb/public_html/ourworks.today/sruti/sidebar.php:127) in /home/sigosflb/public_html/ourworks.today/sruti/viewabout.php on line 66
+[06-Nov-2017 05:15:01 Etc/GMT] PHP Notice:  Undefined index: check in /home/sigosflb/public_html/ourworks.today/sruti/addcategory.php on line 10
+[06-Nov-2017 05:15:01 Etc/GMT] PHP Warning:  implode(): Invalid arguments passed in /home/sigosflb/public_html/ourworks.today/sruti/addcategory.php on line 10
+[06-Nov-2017 05:15:01 Etc/GMT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/sigosflb/public_html/ourworks.today/sruti/sidebar.php:127) in /home/sigosflb/public_html/ourworks.today/sruti/viewcategory.php on line 69
+[06-Nov-2017 05:15:27 Etc/GMT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/sigosflb/public_html/ourworks.today/sruti/sidebar.php:127) in /home/sigosflb/public_html/ourworks.today/sruti/viewcategory.php on line 69
+[06-Nov-2017 05:15:35 Etc/GMT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/sigosflb/public_html/ourworks.today/sruti/sidebar.php:127) in /home/sigosflb/public_html/ourworks.today/sruti/viewdiscat.php on line 69
+[06-Nov-2017 05:15:38 Etc/GMT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/sigosflb/public_html/ourworks.today/sruti/sidebar.php:127) in /home/sigosflb/public_html/ourworks.today/sruti/viewdiscat.php on line 69
+[06-Nov-2017 05:15:45 Etc/GMT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/sigosflb/public_html/ourworks.today/sruti/sidebar.php:127) in /home/sigosflb/public_html/ourworks.today/sruti/viewcategory.php on line 69
+[06-Nov-2017 05:21:15 Etc/GMT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/sigosflb/public_html/ourworks.today/sruti/sidebar.php:127) in /home/sigosflb/public_html/ourworks.today/sruti/viewabout.php on line 66
+[06-Nov-2017 05:21:23 Etc/GMT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/sigosflb/public_html/ourworks.today/sruti/sidebar.php:127) in /home/sigosflb/public_html/ourworks.today/sruti/viewabout.php on line 66
+[06-Nov-2017 05:29:18 Etc/GMT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/sigosflb/public_html/ourworks.today/sruti/sidebar.php:127) in /home/sigosflb/public_html/ourworks.today/sruti/viewcategory.php on line 69
+[06-Nov-2017 05:29:19 Etc/GMT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/sigosflb/public_html/ourworks.today/sruti/sidebar.php:127) in /home/sigosflb/public_html/ourworks.today/sruti/viewcategory.php on line 69
+[06-Nov-2017 05:30:58 Etc/GMT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/sigosflb/public_html/ourworks.today/sruti/sidebar.php:127) in /home/sigosflb/public_html/ourworks.today/sruti/viewcategory.php on line 69
+[06-Nov-2017 05:31:26 Etc/GMT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/sigosflb/public_html/ourworks.today/sruti/sidebar.php:127) in /home/sigosflb/public_html/ourworks.today/sruti/viewdiscat.php on line 69
+[06-Nov-2017 05:31:28 Etc/GMT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/sigosflb/public_html/ourworks.today/sruti/sidebar.php:127) in /home/sigosflb/public_html/ourworks.today/sruti/viewdiscat.php on line 69
+[06-Nov-2017 05:34:07 Etc/GMT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/sigosflb/public_html/ourworks.today/sruti/sidebar.php:127) in /home/sigosflb/public_html/ourworks.today/sruti/viewsubcategory.php on line 70
+[06-Nov-2017 05:34:22 Etc/GMT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/sigosflb/public_html/ourworks.today/sruti/sidebar.php:127) in /home/sigosflb/public_html/ourworks.today/sruti/viewsubcategory.php on line 70
+[06-Nov-2017 05:34:30 Etc/GMT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/sigosflb/public_html/ourworks.today/sruti/sidebar.php:127) in /home/sigosflb/public_html/ourworks.today/sruti/viewsubdis.php on line 70
+[06-Nov-2017 05:34:34 Etc/GMT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/sigosflb/public_html/ourworks.today/sruti/sidebar.php:127) in /home/sigosflb/public_html/ourworks.today/sruti/viewsubdis.php on line 70
+[06-Nov-2017 05:34:37 Etc/GMT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/sigosflb/public_html/ourworks.today/sruti/sidebar.php:127) in /home/sigosflb/public_html/ourworks.today/sruti/viewsubcategory.php on line 70
+[06-Nov-2017 05:36:52 Etc/GMT] PHP Notice:  A session had already been started - ignoring session_start() in /home/sigosflb/public_html/ourworks.today/sruti/index.php on line 2
+[06-Nov-2017 05:41:06 Etc/GMT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/sigosflb/public_html/ourworks.today/sruti/sidebar.php:127) in /home/sigosflb/public_html/ourworks.today/sruti/viewsongs.php on line 71
+[06-Nov-2017 05:43:35 Etc/GMT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/sigosflb/public_html/ourworks.today/sruti/sidebar.php:127) in /home/sigosflb/public_html/ourworks.today/sruti/viewsongs.php on line 71
+[06-Nov-2017 05:47:23 Etc/GMT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/sigosflb/public_html/ourworks.today/sruti/sidebar.php:127) in /home/sigosflb/public_html/ourworks.today/sruti/viewsongs.php on line 71
+[06-Nov-2017 06:04:04 Etc/GMT] PHP Notice:  Undefined index: check in /home/sigosflb/public_html/ourworks.today/sruti/addcategory.php on line 10
+[06-Nov-2017 06:04:04 Etc/GMT] PHP Warning:  implode(): Invalid arguments passed in /home/sigosflb/public_html/ourworks.today/sruti/addcategory.php on line 10
+[06-Nov-2017 06:04:04 Etc/GMT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/sigosflb/public_html/ourworks.today/sruti/sidebar.php:127) in /home/sigosflb/public_html/ourworks.today/sruti/viewcategory.php on line 69
+[06-Nov-2017 06:05:43 Etc/GMT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/sigosflb/public_html/ourworks.today/sruti/sidebar.php:127) in /home/sigosflb/public_html/ourworks.today/sruti/viewsongs.php on line 71
+[06-Nov-2017 06:06:33 Etc/GMT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/sigosflb/public_html/ourworks.today/sruti/sidebar.php:127) in /home/sigosflb/public_html/ourworks.today/sruti/viewsongs.php on line 71
+[06-Nov-2017 07:22:24 Etc/GMT] PHP Notice:  A session had already been started - ignoring session_start() in /home/sigosflb/public_html/ourworks.today/sruti/index.php on line 2
+[06-Nov-2017 10:00:18 Etc/GMT] PHP Notice:  A session had already been started - ignoring session_start() in /home/sigosflb/public_html/ourworks.today/sruti/index.php on line 2
+[06-Nov-2017 10:00:52 Etc/GMT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/sigosflb/public_html/ourworks.today/sruti/sidebar.php:127) in /home/sigosflb/public_html/ourworks.today/sruti/viewsongs.php on line 71
+[06-Nov-2017 10:00:57 Etc/GMT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/sigosflb/public_html/ourworks.today/sruti/sidebar.php:127) in /home/sigosflb/public_html/ourworks.today/sruti/viewcategory.php on line 69
+[06-Nov-2017 10:11:18 Etc/GMT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/sigosflb/public_html/ourworks.today/sruti/sidebar.php:127) in /home/sigosflb/public_html/ourworks.today/sruti/viewcategory.php on line 69
+[06-Nov-2017 10:11:25 Etc/GMT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/sigosflb/public_html/ourworks.today/sruti/sidebar.php:127) in /home/sigosflb/public_html/ourworks.today/sruti/viewcategory.php on line 69
+[06-Nov-2017 10:11:28 Etc/GMT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/sigosflb/public_html/ourworks.today/sruti/sidebar.php:127) in /home/sigosflb/public_html/ourworks.today/sruti/viewdiscat.php on line 69
+[06-Nov-2017 10:11:36 Etc/GMT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/sigosflb/public_html/ourworks.today/sruti/sidebar.php:127) in /home/sigosflb/public_html/ourworks.today/sruti/viewdiscat.php on line 69
+[06-Nov-2017 10:11:38 Etc/GMT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/sigosflb/public_html/ourworks.today/sruti/sidebar.php:127) in /home/sigosflb/public_html/ourworks.today/sruti/viewdiscat.php on line 69
+[06-Nov-2017 10:11:40 Etc/GMT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/sigosflb/public_html/ourworks.today/sruti/sidebar.php:127) in /home/sigosflb/public_html/ourworks.today/sruti/viewdiscat.php on line 69
+[07-Nov-2017 04:31:24 Etc/GMT] PHP Notice:  A session had already been started - ignoring session_start() in /home/sigosflb/public_html/ourworks.today/sruti/index.php on line 2
+[07-Nov-2017 04:31:38 Etc/GMT] PHP Notice:  A session had already been started - ignoring session_start() in /home/sigosflb/public_html/ourworks.today/sruti/index.php on line 2
+[07-Nov-2017 04:32:10 Etc/GMT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/sigosflb/public_html/ourworks.today/sruti/sidebar.php:127) in /home/sigosflb/public_html/ourworks.today/sruti/viewsongs.php on line 71
+[07-Nov-2017 04:48:16 Etc/GMT] PHP Notice:  A session had already been started - ignoring session_start() in /home/sigosflb/public_html/ourworks.today/sruti/index.php on line 2
+[07-Nov-2017 04:48:17 Etc/GMT] PHP Notice:  A session had already been started - ignoring session_start() in /home/sigosflb/public_html/ourworks.today/sruti/index.php on line 2
+[08-Nov-2017 06:01:05 Etc/GMT] PHP Notice:  A session had already been started - ignoring session_start() in /home/sigosflb/public_html/ourworks.today/sruti/index.php on line 2
+[08-Nov-2017 06:05:59 Etc/GMT] PHP Notice:  A session had already been started - ignoring session_start() in /home/sigosflb/public_html/ourworks.today/sruti/index.php on line 2
+[08-Nov-2017 06:37:33 Etc/GMT] PHP Notice:  A session had already been started - ignoring session_start() in /home/sigosflb/public_html/ourworks.today/sruti/index.php on line 2
+[09-Nov-2017 06:54:17 Etc/GMT] PHP Notice:  A session had already been started - ignoring session_start() in /home/sigosflb/public_html/ourworks.today/sruti/index.php on line 2
+[11-Nov-2017 11:48:49 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/sigosflb/public_html/ourworks.today/sruti/config.php on line 2
+[13-Nov-2017 08:58:18 Etc/GMT] PHP Notice:  Undefined index: srutiadmin in /home/sigosflb/public_html/ourworks.today/sruti/addabout.php on line 10
+[13-Nov-2017 08:59:19 Etc/GMT] PHP Notice:  Undefined index: srutiadmin in /home/sigosflb/public_html/ourworks.today/sruti/addabout.php on line 10
+[13-Nov-2017 09:21:34 Etc/GMT] PHP Notice:  Undefined index: check in /home/sigosflb/public_html/ourworks.today/sruti/addcategory.php on line 18
+[13-Nov-2017 09:21:34 Etc/GMT] PHP Warning:  implode(): Invalid arguments passed in /home/sigosflb/public_html/ourworks.today/sruti/addcategory.php on line 18
+[13-Nov-2017 10:50:25 Etc/GMT] PHP Notice:  Undefined index: subcat in /home/sigosflb/public_html/ourworks.today/sruti/addsongs.php on line 17
+[13-Nov-2017 10:50:25 Etc/GMT] PHP Warning:  fopen(): Filename cannot be empty in /home/sigosflb/public_html/ourworks.today/sruti/addsongs.php on line 76
+[13-Nov-2017 10:50:25 Etc/GMT] PHP Warning:  fread() expects parameter 1 to be resource, boolean given in /home/sigosflb/public_html/ourworks.today/sruti/addsongs.php on line 77
+[13-Nov-2017 10:50:25 Etc/GMT] PHP Notice:  Undefined index: subcat in /home/sigosflb/public_html/ourworks.today/sruti/addsongs.php on line 17
+[13-Nov-2017 10:50:25 Etc/GMT] PHP Warning:  fopen(): Filename cannot be empty in /home/sigosflb/public_html/ourworks.today/sruti/addsongs.php on line 76
+[13-Nov-2017 10:50:25 Etc/GMT] PHP Warning:  fread() expects parameter 1 to be resource, boolean given in /home/sigosflb/public_html/ourworks.today/sruti/addsongs.php on line 77
+[13-Nov-2017 10:50:25 Etc/GMT] PHP Notice:  Undefined index: subcat in /home/sigosflb/public_html/ourworks.today/sruti/addsongs.php on line 17
+[13-Nov-2017 10:50:25 Etc/GMT] PHP Warning:  fopen(): Filename cannot be empty in /home/sigosflb/public_html/ourworks.today/sruti/addsongs.php on line 76
+[13-Nov-2017 10:50:25 Etc/GMT] PHP Warning:  fread() expects parameter 1 to be resource, boolean given in /home/sigosflb/public_html/ourworks.today/sruti/addsongs.php on line 77
+[13-Nov-2017 10:50:25 Etc/GMT] PHP Notice:  Undefined index: subcat in /home/sigosflb/public_html/ourworks.today/sruti/addsongs.php on line 17
+[13-Nov-2017 10:50:25 Etc/GMT] PHP Warning:  fopen(): Filename cannot be empty in /home/sigosflb/public_html/ourworks.today/sruti/addsongs.php on line 76
+[13-Nov-2017 10:50:25 Etc/GMT] PHP Warning:  fread() expects parameter 1 to be resource, boolean given in /home/sigosflb/public_html/ourworks.today/sruti/addsongs.php on line 77
+[13-Nov-2017 10:53:37 Etc/GMT] PHP Notice:  Undefined index: srutiadmin in /home/sigosflb/public_html/ourworks.today/sruti/addsongs.php on line 10
+[13-Nov-2017 10:54:44 Etc/GMT] PHP Notice:  Undefined index: srutiadmin in /home/sigosflb/public_html/ourworks.today/sruti/addabout.php on line 10
+[13-Nov-2017 10:57:34 Etc/GMT] PHP Notice:  Undefined index: srutiadmin in /home/sigosflb/public_html/ourworks.today/sruti/addimage.php on line 9
+[13-Nov-2017 10:58:17 Etc/GMT] PHP Notice:  Undefined index: srutiadmin in /home/sigosflb/public_html/ourworks.today/sruti/addimage.php on line 9
+[13-Nov-2017 10:58:34 Etc/GMT] PHP Notice:  Undefined index: srutiadmin in /home/sigosflb/public_html/ourworks.today/sruti/addabout.php on line 10
+[14-Nov-2017 04:27:53 Etc/GMT] PHP Notice:  Undefined index: srutiadmin in /home/sigosflb/public_html/ourworks.today/sruti/addimage.php on line 9
+[14-Nov-2017 04:28:00 Etc/GMT] PHP Notice:  Undefined index: srutiadmin in /home/sigosflb/public_html/ourworks.today/sruti/addabout.php on line 10
+[14-Nov-2017 05:05:50 Etc/GMT] PHP Notice:  Undefined index: srutiadmin in /home/sigosflb/public_html/ourworks.today/sruti/addabout.php on line 10
+[14-Nov-2017 05:06:40 Etc/GMT] PHP Notice:  Undefined index: srutiadmin in /home/sigosflb/public_html/ourworks.today/sruti/addsongs.php on line 10
+[14-Nov-2017 05:06:46 Etc/GMT] PHP Notice:  Undefined index: srutiadmin in /home/sigosflb/public_html/ourworks.today/sruti/addabout.php on line 10
+[14-Nov-2017 05:06:49 Etc/GMT] PHP Notice:  Undefined index: srutiadmin in /home/sigosflb/public_html/ourworks.today/sruti/addimage.php on line 9
+[14-Nov-2017 05:06:52 Etc/GMT] PHP Notice:  Undefined index: srutiadmin in /home/sigosflb/public_html/ourworks.today/sruti/viewaboutimages.php on line 9
+[14-Nov-2017 05:06:55 Etc/GMT] PHP Notice:  Undefined index: srutiadmin in /home/sigosflb/public_html/ourworks.today/sruti/addcategory.php on line 9
+[14-Nov-2017 05:06:57 Etc/GMT] PHP Notice:  Undefined index: srutiadmin in /home/sigosflb/public_html/ourworks.today/sruti/viewcategory.php on line 9
+[14-Nov-2017 05:07:00 Etc/GMT] PHP Notice:  Undefined index: srutiadmin in /home/sigosflb/public_html/ourworks.today/sruti/viewdiscat.php on line 9
+[14-Nov-2017 05:07:03 Etc/GMT] PHP Notice:  Undefined index: srutiadmin in /home/sigosflb/public_html/ourworks.today/sruti/addsubcat.php on line 9
+[14-Nov-2017 05:07:05 Etc/GMT] PHP Notice:  Undefined index: srutiadmin in /home/sigosflb/public_html/ourworks.today/sruti/viewsubcategory.php on line 9
+[14-Nov-2017 05:07:07 Etc/GMT] PHP Notice:  Undefined index: srutiadmin in /home/sigosflb/public_html/ourworks.today/sruti/viewsubdis.php on line 9
+[14-Nov-2017 05:07:10 Etc/GMT] PHP Notice:  Undefined index: srutiadmin in /home/sigosflb/public_html/ourworks.today/sruti/dashboard.php on line 46
+[15-Nov-2017 05:33:12 Etc/GMT] PHP Notice:  Undefined index: srutiadmin in /home/sigosflb/public_html/ourworks.today/sruti/addabout.php on line 10
+[17-Nov-2017 05:24:42 Etc/GMT] PHP Notice:  Undefined index: check in /home/sigosflb/public_html/ourworks.today/sruti/addcategory.php on line 18
+[17-Nov-2017 05:24:42 Etc/GMT] PHP Warning:  implode(): Invalid arguments passed in /home/sigosflb/public_html/ourworks.today/sruti/addcategory.php on line 18
+[18-Nov-2017 10:19:04 Etc/GMT] PHP Notice:  Undefined index: check in /home/sigosflb/public_html/ourworks.today/sruti/editsubcat.php on line 20
+[18-Nov-2017 10:19:04 Etc/GMT] PHP Warning:  implode(): Invalid arguments passed in /home/sigosflb/public_html/ourworks.today/sruti/editsubcat.php on line 20
+[04-Dec-2017 04:46:36 Etc/GMT] PHP Notice:  Undefined index: check in /home/sigosflb/public_html/ourworks.today/sruti/editcat.php on line 20
+[04-Dec-2017 04:46:36 Etc/GMT] PHP Warning:  implode(): Invalid arguments passed in /home/sigosflb/public_html/ourworks.today/sruti/editcat.php on line 20
+[04-Dec-2017 04:47:08 Etc/GMT] PHP Notice:  Undefined index: check in /home/sigosflb/public_html/ourworks.today/sruti/editsubcat.php on line 20
+[04-Dec-2017 04:47:08 Etc/GMT] PHP Warning:  implode(): Invalid arguments passed in /home/sigosflb/public_html/ourworks.today/sruti/editsubcat.php on line 20
+[05-Dec-2017 06:29:08 Etc/GMT] PHP Notice:  Undefined index: check in /home/sigosflb/public_html/ourworks.today/sruti/editsubcat.php on line 20
+[05-Dec-2017 06:29:08 Etc/GMT] PHP Warning:  implode(): Invalid arguments passed in /home/sigosflb/public_html/ourworks.today/sruti/editsubcat.php on line 20
+[05-Dec-2017 06:29:45 Etc/GMT] PHP Notice:  Undefined index: check in /home/sigosflb/public_html/ourworks.today/sruti/editsubcat.php on line 20
+[05-Dec-2017 06:29:45 Etc/GMT] PHP Warning:  implode(): Invalid arguments passed in /home/sigosflb/public_html/ourworks.today/sruti/editsubcat.php on line 20
+[05-Dec-2017 06:46:12 Etc/GMT] PHP Notice:  Undefined index: check in /home/sigosflb/public_html/ourworks.today/sruti/editsubcat.php on line 20
+[05-Dec-2017 06:46:12 Etc/GMT] PHP Warning:  implode(): Invalid arguments passed in /home/sigosflb/public_html/ourworks.today/sruti/editsubcat.php on line 20
+[02-Jan-2018 04:00:55 Etc/GMT] PHP Notice:  Undefined index: srutiadmin in /home/sigosflb/public_html/ourworks.today/sruti/addsongs.php on line 10
+[22-Jan-2018 10:09:07 Etc/GMT] PHP Warning:  fopen(): Filename cannot be empty in /home/sigosflb/public_html/ourworks.today/sruti/addsongs.php on line 76
+[22-Jan-2018 10:09:07 Etc/GMT] PHP Warning:  fread() expects parameter 1 to be resource, boolean given in /home/sigosflb/public_html/ourworks.today/sruti/addsongs.php on line 77
+[24-May-2018 07:20:31 Etc/GMT] PHP Notice:  Undefined index: srutiadmin in /home/ourworks/public_html/sruti/dashboard.php on line 46
+[24-May-2018 07:22:32 Etc/GMT] PHP Notice:  Undefined index: srutiadmin in /home/ourworks/public_html/sruti/viewsubdis.php on line 9
+[25-May-2018 06:20:01 Etc/GMT] PHP Notice:  Undefined index: srutiadmin in /home/ourworks/public_html/sruti/dashboard.php on line 46
+[25-May-2018 06:20:34 Etc/GMT] PHP Notice:  Undefined index: srutiadmin in /home/ourworks/public_html/sruti/addsongs.php on line 10
+[25-May-2018 06:20:38 Etc/GMT] PHP Notice:  Undefined index: id in /home/ourworks/public_html/sruti/ajax.php on line 4
+[25-May-2018 06:20:40 Etc/GMT] PHP Notice:  Undefined index: id in /home/ourworks/public_html/sruti/ajax.php on line 4
+[12-Jun-2018 06:50:12 Etc/GMT] PHP Notice:  Undefined index: cat in /home/ourworks/public_html/sruti/addsongs.php on line 16
+[12-Jun-2018 06:50:12 Etc/GMT] PHP Notice:  Undefined index: subcat in /home/ourworks/public_html/sruti/addsongs.php on line 17
+[12-Jun-2018 06:52:22 Etc/GMT] PHP Notice:  Undefined index: cat in /home/ourworks/public_html/sruti/addsongs.php on line 16
+[12-Jun-2018 06:52:22 Etc/GMT] PHP Notice:  Undefined index: subcat in /home/ourworks/public_html/sruti/addsongs.php on line 17
+[12-Jun-2018 06:55:08 Etc/GMT] PHP Notice:  Undefined index: check in /home/ourworks/public_html/sruti/addcategory.php on line 18
+[12-Jun-2018 06:55:08 Etc/GMT] PHP Warning:  implode(): Invalid arguments passed in /home/ourworks/public_html/sruti/addcategory.php on line 18
+[12-Jun-2018 08:57:33 Etc/GMT] PHP Notice:  Undefined index: check in /home/ourworks/public_html/sruti/addcategory.php on line 18
+[12-Jun-2018 08:57:33 Etc/GMT] PHP Warning:  implode(): Invalid arguments passed in /home/ourworks/public_html/sruti/addcategory.php on line 18
+[12-Jun-2018 08:58:02 Etc/GMT] PHP Notice:  Undefined index: subcat in /home/ourworks/public_html/sruti/addsubcat.php on line 17
+[12-Jun-2018 08:59:11 Etc/GMT] PHP Notice:  Undefined index: subcat in /home/ourworks/public_html/sruti/addsubcat.php on line 17
+[12-Jun-2018 09:11:53 Etc/GMT] PHP Notice:  Undefined index: cat in /home/ourworks/public_html/sruti/addsongs.php on line 16
+[12-Jun-2018 09:11:53 Etc/GMT] PHP Notice:  Undefined index: subcat in /home/ourworks/public_html/sruti/addsongs.php on line 17
+[12-Jun-2018 09:11:53 Etc/GMT] PHP Warning:  fopen(): Filename cannot be empty in /home/ourworks/public_html/sruti/addsongs.php on line 76
+[12-Jun-2018 09:11:53 Etc/GMT] PHP Warning:  fread() expects parameter 1 to be resource, boolean given in /home/ourworks/public_html/sruti/addsongs.php on line 77
+[12-Jun-2018 09:31:43 Etc/GMT] PHP Notice:  Undefined index: cat in /home/ourworks/public_html/sruti/addsongs.php on line 16
+[12-Jun-2018 09:31:43 Etc/GMT] PHP Notice:  Undefined index: subcat in /home/ourworks/public_html/sruti/addsongs.php on line 17
+[12-Jun-2018 09:31:43 Etc/GMT] PHP Warning:  fopen(): Filename cannot be empty in /home/ourworks/public_html/sruti/addsongs.php on line 76
+[12-Jun-2018 09:31:43 Etc/GMT] PHP Warning:  fread() expects parameter 1 to be resource, boolean given in /home/ourworks/public_html/sruti/addsongs.php on line 77
+[12-Jun-2018 09:41:45 Etc/GMT] PHP Notice:  Undefined index: check in /home/ourworks/public_html/sruti/editsubcat.php on line 20
+[12-Jun-2018 09:41:45 Etc/GMT] PHP Warning:  implode(): Invalid arguments passed in /home/ourworks/public_html/sruti/editsubcat.php on line 20
+[12-Jun-2018 10:26:46 Etc/GMT] PHP Notice:  Undefined index: check in /home/ourworks/public_html/sruti/editsubcat.php on line 20
+[12-Jun-2018 10:26:46 Etc/GMT] PHP Warning:  implode(): Invalid arguments passed in /home/ourworks/public_html/sruti/editsubcat.php on line 20
